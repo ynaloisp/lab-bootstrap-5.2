@@ -1,1 +1,4 @@
-/* Add custom css styles here */
+.custom-size {
+    width: 5%;
+    height: auto;
+}
